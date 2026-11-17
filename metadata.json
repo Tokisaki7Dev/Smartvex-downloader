@@ -1,0 +1,6 @@
+{
+  "name": "Smartvex",
+  "description": "Download YouTube videos up to 4K Ultra HD without watermarks and convert to 320kbps MP3 with automatic IP language detection and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
